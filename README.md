@@ -1,2 +1,3 @@
 # practice
-GithubPractice
+Clone, push, pull 
+
